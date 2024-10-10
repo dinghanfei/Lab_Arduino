@@ -12,3 +12,7 @@
 流水灯实验
 + code：led_code
 + project: led
+
+蜂鸣器实验
++ code: buzzer_code
++ project: Buzzer_project
